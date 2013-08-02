@@ -1,1 +1,3 @@
-This file was created by Android Studio (I/O Preview) AI-130.725679 for binding GitHub repository
+This App is created with Android Studio. It does following : 1> Displays rainbow color buttons Do, Re, Mi, Fa, So, La, Ti   2> When you click on any of these buttons it displays corresponding lyric part for that note from 'Sound of Muisc' movie. eg. if you click on 'Do' button it will display 'Doe, a deer, a female deer'.
+
+This is just simple app for Android beginner. 
