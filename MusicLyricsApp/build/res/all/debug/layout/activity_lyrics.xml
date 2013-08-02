@@ -1,0 +1,61 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="fill_parent" android:layout_height="wrap_content"
+              android:orientation="vertical" android:id="@+id/MusicKeyBoard">
+    <Button
+            android:id="@+id/RedButton" android:text="@string/Do"
+            android:layout_width="fill_parent" android:layout_height="wrap_content"
+            android:layout_weight=".14" android:gravity="center"
+            android:minHeight="92dp"   android:textSize="22sp"
+            android:background="#f00"  android:textColor="#000"
+            android:onClick="onButtonClick">
+    </Button>
+    <Button
+            android:id="@+id/OrangeButton" android:text="@string/Re"
+            android:layout_width="fill_parent" android:layout_height="wrap_content"
+            android:layout_weight=".14" android:gravity="center"
+            android:minHeight="92dp"   android:textSize="22sp"
+            android:background="#ffa500"  android:textColor="#000"
+            android:onClick="onButtonClick">
+    </Button>
+    <Button
+            android:id="@+id/YellowButton" android:text="@string/Mi"
+            android:layout_width="fill_parent" android:layout_height="wrap_content"
+            android:layout_weight=".14" android:gravity="center"
+            android:minHeight="92dp"   android:textSize="22sp"
+            android:background="#ffff00"  android:textColor="#000"
+            android:onClick="onButtonClick">
+    </Button>
+    <Button
+            android:id="@+id/GreenButton" android:text="@string/Fa"
+            android:layout_width="fill_parent" android:layout_height="wrap_content"
+            android:layout_weight=".14" android:gravity="center"
+            android:minHeight="92dp"   android:textSize="22sp"
+            android:background="#0f0"  android:textColor="#000"
+            android:onClick="onButtonClick">
+    </Button>
+    <Button
+            android:id="@+id/BlueButton" android:text="@string/So"
+            android:layout_width="fill_parent" android:layout_height="wrap_content"
+            android:layout_weight=".14" android:gravity="center"
+            android:minHeight="92dp"   android:textSize="22sp"
+            android:background="#00f"  android:textColor="#000"
+            android:onClick="onButtonClick">
+    </Button>
+    <Button
+            android:id="@+id/IndigoButton" android:text="@string/La"
+            android:layout_width="fill_parent" android:layout_height="wrap_content"
+            android:layout_weight=".14" android:gravity="center"
+            android:minHeight="92dp"   android:textSize="22sp"
+            android:background="#4b0082"  android:textColor="#000"
+            android:onClick="onButtonClick">
+    </Button>
+    <Button
+            android:id="@+id/VioletButton" android:text="@string/Ti"
+            android:layout_width="fill_parent" android:layout_height="wrap_content"
+            android:layout_weight=".14" android:gravity="center"
+            android:minHeight="92dp"   android:textSize="22sp"
+            android:background="#ee82ee"  android:textColor="#000"
+            android:onClick="onButtonClick">
+    </Button>
+
+</LinearLayout>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MusicLyricsApp</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="Do">Do</string>
+    <string name="Re">Re</string>
+    <string name="Mi">Mi</string>
+    <string name="Fa">Fa</string>
+    <string name="So">So</string>
+    <string name="La">La</string>
+    <string name="Ti">Ti</string>
+
+</resources>
